@@ -125,6 +125,7 @@ Execute the program using runserver command.
 ~~~
 
 ## OUTPUT
+![Screenshot 2023-11-08 094734](https://github.com/THARUNDT/slot/assets/144871537/3f44ddf2-1a07-4228-9cfd-e0520c20048c)
 
 
 ## RESULT
